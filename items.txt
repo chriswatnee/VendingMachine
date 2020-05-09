@@ -1,0 +1,9 @@
+Snickers::0.50::1
+Twix::0.50::10
+Twizzlers::0.75::10
+Butterfinger::0.50::10
+Skittles::0.75::10
+Cheetos::1.00::10
+Lay's::1.00::10
+M&M's::0.75::10
+Doritos::1.00::10
